@@ -1,0 +1,6 @@
+/Users/theobrindejonc/Downloads/Cours 250 - Module 5 2/TPPizza/TP_Pizza/BO/bin/Debug/BO.dll
+/Users/theobrindejonc/Downloads/Cours 250 - Module 5 2/TPPizza/TP_Pizza/BO/bin/Debug/BO.pdb
+/Users/theobrindejonc/Downloads/Cours 250 - Module 5 2/TPPizza/TP_Pizza/BO/obj/Debug/BO.csprojAssemblyReference.cache
+/Users/theobrindejonc/Downloads/Cours 250 - Module 5 2/TPPizza/TP_Pizza/BO/obj/Debug/BO.csproj.CoreCompileInputs.cache
+/Users/theobrindejonc/Downloads/Cours 250 - Module 5 2/TPPizza/TP_Pizza/BO/obj/Debug/BO.dll
+/Users/theobrindejonc/Downloads/Cours 250 - Module 5 2/TPPizza/TP_Pizza/BO/obj/Debug/BO.pdb

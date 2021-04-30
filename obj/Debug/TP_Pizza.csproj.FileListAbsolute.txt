@@ -1,0 +1,2 @@
+/Users/theobrindejonc/Downloads/Cours 250 - Module 5 2/TPPizza/TP_Pizza/TP_Pizza/obj/Debug/TP_Pizza.csprojAssemblyReference.cache
+/Users/theobrindejonc/Downloads/Cours 250 - Module 5 2/TPPizza/TP_Pizza/TP_Pizza/obj/Debug/TP_Pizza.csproj.CoreCompileInputs.cache
